@@ -9,6 +9,8 @@ Portfolio for my Data Analyst Skills using different tools such as Jupyter Noteb
     
 ## 2.- Power BI
 
+2.1.- [Beverages Sales Analysis](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/World_Population_1955-2020_Insights.ipynb)  
+
 ## 3.- Python
 
 ## 4.- SQL
