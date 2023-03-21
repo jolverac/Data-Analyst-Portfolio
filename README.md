@@ -13,10 +13,16 @@ Portfolio for my Data Analyst Skills using different tools such as Jupyter Noteb
 
 2.1.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Beverages_Sales_Analysis.pdf)
         
-2.1.2.- [Raw Data](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Beverages_Sales_Analysis.pbix)
+2.1.2.- [PBIX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Beverages_Sales_Analysis.pbix)
 
 ## 3.- Python
 
 ## 4.- SQL
 
 ## 5.- Microsoft Excel
+
+5.1.- Consulting Project Dashboard
+
+5.1.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Consulting_Project_%20Dashboard.pdf)
+        
+5.1.2.- [XLSX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Consulting_Project_%20Dashboard.xlsx)
