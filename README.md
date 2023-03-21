@@ -1,6 +1,10 @@
 # Data Analyst Skills Portfolio
 Portfolio for my Data Analyst Skills using different tools such as Jupyter Notebook, Power BI, Python, SQL, and Microsoft Excel.
 
+### Reminder:
+Please consider that these are just exercises to demonstrate my skills, as my customers' information will always be private.
+
+
 # Index:
 
 ## 1.- Jupyter Notebook
