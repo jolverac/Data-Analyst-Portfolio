@@ -2,7 +2,7 @@
 Portfolio for my Data Analyst Skills using different tools such as Jupyter Notebook, Power BI, Python, SQL, and Microsoft Excel.
 
 ### Reminder:
-Please consider that these are just exercises to demonstrate my skills, as my customers' information will always be private.
+Please consider that these are just exercises to demonstrate my skills, as my customers' information will always remain private.
 
 
 # Index:
@@ -30,3 +30,4 @@ Please consider that these are just exercises to demonstrate my skills, as my cu
 5.1.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Consulting_Project_%20Dashboard.pdf)
         
 5.1.2.- [XLSX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Consulting_Project_%20Dashboard.xlsx)
+
