@@ -31,3 +31,9 @@ Please consider that these are just exercises to demonstrate my skills, as my cu
         
 5.1.2.- [XLSX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Consulting_Project_%20Dashboard.xlsx)
 
+5.2.- South America Restaurant Sales 
+
+5.2.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/SouthAmerica_Restaurant_Sales.pdf)
+        
+5.2.2.- [XLSX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/SouthAmerica_Restaurant_Sales.xlsx)
+
