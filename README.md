@@ -11,23 +11,29 @@ Please consider that these are just exercises to demonstrate my skills, as my cu
 
 1.1.- [World Population 1955 - 2020 Insights](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/World_Population_1955-2020_Insights.ipynb)    
     
-## 2.- Power BI
+## 2.- SQL
 
-2.1.- Beverages Sales Analysis
+2.1.- Mexico City AirBnB Insights Part 1 (Cleaning)
 
-2.1.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Beverages_Sales_Analysis.pdf)
+2.1.1.- [Original CSV](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/AirBnB_MexicoCity_Original.csv)
+
+2.1.2.- [Cleaning Process](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/AirBnB_MexicoCity_Cleaning.sql)
+
+2.1.3.- [Clean CSV](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/AirBnB_MexicoCity_Clean.csv)
+
+## 3.- Power BI
+
+3.1.- Mexico City AirBnB Insights Part 2 (Visualizing)
+
+3.1.1.- [PDF Preview]()
         
-2.1.2.- [PBIX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Beverages_Sales_Analysis.pbix)
+3.1.2.- [PBIX]()
 
-## 3.- SQL
+3.2.- Beverages Sales Analysis
 
-3.1 Mexico City AirBnB Insights Part 1
-
-3.1.1.- [Original CSV](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/AirBnB_MexicoCity_Original.csv)
-
-3.1.2.- [Cleaning Process](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/AirBnB_MexicoCity_Cleaning.sql)
-
-3.1.3.- [Clean CSV](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/AirBnB_MexicoCity_Clean.csv)
+3.2.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Beverages_Sales_Analysis.pdf)
+        
+3.2.2.- [PBIX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Beverages_Sales_Analysis.pbix)
 
 ## 4.- Microsoft Excel
 
