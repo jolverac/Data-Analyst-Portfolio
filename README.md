@@ -7,7 +7,7 @@ Please consider that these are just exercises to demonstrate my skills, as my cu
 
 # Index:
 
-## 1.- Jupyter Notebook
+## 1.- Python (Jupyter Notebook)
 
 1.1.- [World Population 1955 - 2020 Insights](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/World_Population_1955-2020_Insights.ipynb)    
     
@@ -19,21 +19,19 @@ Please consider that these are just exercises to demonstrate my skills, as my cu
         
 2.1.2.- [PBIX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Beverages_Sales_Analysis.pbix)
 
-## 3.- Python
+## 3.- SQL
 
-## 4.- SQL
+## 4.- Microsoft Excel
 
-## 5.- Microsoft Excel
+4.1.- Consulting Project Dashboard
 
-5.1.- Consulting Project Dashboard
-
-5.1.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Consulting_Project_%20Dashboard.pdf)
+4.1.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Consulting_Project_%20Dashboard.pdf)
         
-5.1.2.- [XLSX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Consulting_Project_%20Dashboard.xlsx)
+4.1.2.- [XLSX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Consulting_Project_%20Dashboard.xlsx)
 
-5.2.- South America Restaurant Sales 
+4.2.- South America Restaurant Sales 
 
-5.2.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/SouthAmerica_Restaurant_Sales.pdf)
+4.2.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/SouthAmerica_Restaurant_Sales.pdf)
         
-5.2.2.- [XLSX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/SouthAmerica_Restaurant_Sales.xlsx)
+4.2.2.- [XLSX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/SouthAmerica_Restaurant_Sales.xlsx)
 
