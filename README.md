@@ -25,7 +25,7 @@ Please consider that these are just exercises to demonstrate my skills, as my cu
 
 3.1.1.- [Original CSV](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/AirBnB_MexicoCity_Original.csv)
 
-3.1.2.- [Cleaning Process]()
+3.1.2.- [Cleaning Process](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/AirBnB_MexicoCity_Clean.csv)
 
 3.1.3.- [Clean CSV](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/AirBnB_MexicoCity_Clean.csv)
 
