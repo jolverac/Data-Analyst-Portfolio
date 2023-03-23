@@ -21,6 +21,14 @@ Please consider that these are just exercises to demonstrate my skills, as my cu
 
 ## 3.- SQL
 
+3.1 Mexico City AirBnB Insights Part 1
+
+3.1.1.- [Original CSV]()
+
+3.1.2.- [Cleaning Process]()
+
+3.1.3.- [Clean CSV]()
+
 ## 4.- Microsoft Excel
 
 4.1.- Consulting Project Dashboard
