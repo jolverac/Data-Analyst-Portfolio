@@ -37,9 +37,9 @@ Please consider that these are just exercises to demonstrate my skills, as my cu
 
 3.3.- Olympics Dataset
 
-3.3.1.- [PDF Preview]( )
+3.3.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Olympics_Dataset.pdf)
         
-3.3.2.- [PBIX]( )
+3.3.2.- [PBIX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Olympics_Dataset.pbix)
 
 ## 4.- Microsoft Excel
 
