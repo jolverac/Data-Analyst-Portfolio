@@ -1,5 +1,5 @@
 # Data Analyst Skills Portfolio
-Portfolio for my Data Analyst Skills using different tools such as Jupyter Notebook, Power BI, Python, SQL, and Microsoft Excel.
+Portfolio for my Data Analyst Skills using different tools such as Pyhon (Jupyter Notebook), Power BI, Python, SQL, and Microsoft Excel.
 
 ### Reminder:
 Please consider that these are just exercises to demonstrate my skills, as my customers' information will always remain private.
@@ -34,6 +34,12 @@ Please consider that these are just exercises to demonstrate my skills, as my cu
 3.2.1.- [PDF Preview](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Beverages_Sales_Analysis.pdf)
         
 3.2.2.- [PBIX](https://github.com/jolverac/Data-Analyst-Portfolio/blob/main/Beverages_Sales_Analysis.pbix)
+
+3.3.- Olympics Dataset
+
+3.3.1.- [PDF Preview]( )
+        
+3.3.2.- [PBIX]( )
 
 ## 4.- Microsoft Excel
 
